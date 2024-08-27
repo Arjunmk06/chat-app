@@ -15,24 +15,7 @@
             <span><i class="far fa-user"></i></span>
             <input type="text" id="name-input" class="name-input" value="anonymus" maxlength="20">
         </div>
-        <ul class="message-container">
-            <li class="message-left">
-               <p>lorem 
-                    <span>bluebird - time</span>
-               </p> 
-               
-            </li>
-
-            <li class="message-right">
-                <p>ipsum
-                    <span>bluebird - time</span>
-                </p> 
-                
-             </li>
-
-             <li class="feedback", id="feedback">
-                <p>typing</p> 
-             </li>
+        <ul class="message-container" id="message-container">
         </ul>
 
         <form action="" class="message-form" id="message-form">
@@ -45,6 +28,9 @@
 
     </div>
     <h3 class="client-total" id="client-total">Total clients : 2</h3>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.28.0/moment.min.js" integrity="sha512-Q1f3TS3vSt1jQ8AwP2OuenztnLU6LwxgyyYOG1jgMW/cbEMHps/3wjvnl1P3WTrF3chJUWEoxDUEjMxDV8pujg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="main.js"></script>
 
 </body>
 </html>
