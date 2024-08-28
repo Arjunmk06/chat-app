@@ -27,8 +27,14 @@ This is real time  chat application using the websockets using Socket.io package
     ```sh
     npm run dev
     ```
-4. Start the chat app:
 
-    ```sh
-    npm run start
-    ```
+# Demo
+
+
+ This demo video run in localhost( Since working on upgrading the chat app with room availabilty after deploy will upate the accesssable link)
+
+
+https://github.com/user-attachments/assets/137d2ab6-544b-4c16-a473-100ce1bcb3c6
+
+
+
