@@ -13,7 +13,7 @@ This is real time  chat application using the websockets using Socket.io package
 
     --for fork
    ```sh
-   Fork the repository by clicking on the **Fork** button at the top right of the [repository page](https://github.com/Arjunmk06/Telegram-OPEN-AI-chatbot.git).
+   Fork the repository by clicking on the **Fork** button at the top right of the [repository page](clone https://github.com/Arjunmk06/chat-app.git).
    ```
 
 
